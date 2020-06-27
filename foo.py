@@ -35,4 +35,4 @@ if __name__ == "__main__":
     z = Length(4.5, "yd") + Length(1)
     print(repr(z))
     print(z)
-
+    print(z)
